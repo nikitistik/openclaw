@@ -9,7 +9,7 @@
     "@sinclair/typebox": "0.34.49",
     "fake-indexeddb": "^6.2.5",
     "jiti": "^2.6.1",
-    "markdown-it": "14.1.1",
+    "markdown-it": "14.3.3",
     "matrix-js-sdk": "41.3.0",
     "music-metadata": "^11.12.3"
   },
